@@ -1,16 +1,16 @@
-<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <!-- Stats Card -->
-  <a href="https://github.com/donnabell-s" style="flex: 1 1 400px; max-width: 400px;">
-    <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=donnabell-s&show_icons=true&theme=omni&height=300" alt="GitHub Stats" />
+  <a href="https://github.com/donnabell-s">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=donnabell-s&show_icons=true&theme=radical&hide=issues&hide_rank=true&custom_title=My%20Stats" />
   </a>
   
   <!-- Languages Donut Chart -->
-  <a href="https://github.com/donnabell-s" style="flex: 1 1 300px; max-width: 300px;">
-    <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donnabell-s&layout=donut&theme=omni&height=300" alt="Top Languages" />
+  <a href="https://github.com/donnabell-s">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donnabell-s&layout=donut&theme=dark&hide=html,css" />
   </a>
   
-  <!-- Activity Graph -->
-  <a href="https://github.com/donnabell-s" style="flex: 1 1 400px; max-width: 400px;">
-    <img style="width: 100%; height: auto;" src="https://github-readme-activity-graph.vercel.app/graph?username=donnabell-s&theme=react-dark&height=300" alt="Activity Graph" />
+  <!-- Weekly Bar Chart Activity Graph -->
+  <a href="https://github.com/donnabell-s">
+    <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=donnabell-s&theme=react-dark&hide_title=true&hide_border=true&type=bar&bar_height=10&section=weekly&width=400" />
   </a>
 </div>
