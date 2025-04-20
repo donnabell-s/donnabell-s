@@ -4,7 +4,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donnabell-s&bg_color=FFD6E7&title_color=FF6B9D&icon_color=FF85B3&text_color=5E4352)
 
-<img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/sparkle.svg" width="100">
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FF69B4&label=PROFILE+VIEWS)
 
 <!--
 **donnabell-s/donnabell-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
