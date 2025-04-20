@@ -11,6 +11,6 @@
   
   <!-- Activity Graph (with fallback options) -->
   <a href="https://github.com/donnabell-s">
-    <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=donnabell-s&theme=github&height=300&bg_color=FFEEF4&color=FF6B9D&line=FF85B3&point=FF69B4" alt="Activity Graph" />
+    <img width="400" src=""https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark"/>
   </a>
 </div>
