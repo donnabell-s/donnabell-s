@@ -2,9 +2,7 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=donnabell-s&show_icons=true&theme=omni)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donnabell-s&bg_color=FFD6E7&title_color=FF6B9D&icon_color=FF85B3&text_color=5E4352)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FF69B4&label=PROFILE+VIEWS)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
 
 <!--
 **donnabell-s/donnabell-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
