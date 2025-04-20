@@ -2,7 +2,7 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=donnabell-s&show_icons=true&theme=omni)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donnabell-s&layout=compact&theme=dark)
 
 <!--
 **donnabell-s/donnabell-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
