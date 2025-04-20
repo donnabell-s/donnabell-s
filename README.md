@@ -10,7 +10,7 @@
   </a>
   
   <!-- Weekly Bar Chart Activity Graph -->
-  <a href="https://github.com/donnabell-s">
+  <!-- <a href="https://github.com/donnabell-s">
     <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=donnabell-s&theme=react-dark&hide_title=true&hide_border=true&type=bar&bar_height=10&section=weekly&width=400" />
-  </a>
+  </a> -->
 </div>
