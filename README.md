@@ -11,10 +11,6 @@
   
   <!-- Activity Graph (with fallback options) -->
   <a href="https://github.com/donnabell-s">
-    <!-- Primary Option -->
     <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=donnabell-s&theme=github&height=300&bg_color=FFEEF4&color=FF6B9D&line=FF85B3&point=FF69B4" alt="Activity Graph" />
-    
-    <!-- Fallback Option (comment out the one above and uncomment this if needed) -->
-    <!-- <img width="400" src="https://activity-graph.herokuapp.com/graph?username=donnabell-s&theme=github&height=300&bg_color=FFEEF4&color=FF6B9D&line=FF85B3&point=FF69B4" alt="Activity Graph Fallback" /> -->
   </a>
 </div>
