@@ -11,6 +11,6 @@
   
   <!-- Activity Graph -->
   <a href="https://github.com/donnabell-s">
-    <img width="400" src="https://activity-graph.herokuapp.com/graph?username=donnabell-s&theme=react-dark&height=300" alt="Activity Graph" />
+    <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=donnabell-s&theme=react-dark&height=300" alt="Activity Graph" />
   </a>
 </div>
